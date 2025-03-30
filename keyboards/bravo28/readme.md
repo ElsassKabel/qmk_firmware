@@ -4,7 +4,7 @@
 
 | Assembled | Exploded |
 | ----- | ----- |
-| ![Assembled view](https://imgur.com/rHyuk5R) | ![Exploded view](https://imgur.com/S1yikOB) |
+| ![Assembled view](https://i.imgur.com/rHyuk5R.png) | ![Exploded view](https://i.imgur.com/S1yikOB.png) |
 
 * Keyboard Maintainer: [ElsassKabel](https://github.com/ElsassKabel)
 * Hardware Supported: Bravo28 PCB
