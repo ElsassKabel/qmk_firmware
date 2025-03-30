@@ -3,7 +3,6 @@
 	"maintainer": "LucasAlt",
 	"manufacturer": "ElsassKabel",
 	"url": "https://elsasskabel.com",
-	"bootloader_instructions": "Press the button marked RESET on the back of the PCB",
 	"tags": ["ortho", "alpha"],
 
 	"bootloader": "stm32-dfu",
@@ -23,9 +22,9 @@
 	},
 
 	"usb": {
-		"device_version": "0.0.1",
-		"pid": "0x0000",
-		"vid": "0xFEED"
+		"device_version": "1.0.0",
+		"pid": "0x0001",
+		"vid": "0x6767"
 	},
 
 	"layouts": {
